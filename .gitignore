@@ -1,0 +1,4 @@
+.DS_STORE
+
+# uncomment the following line by removing the # sign if your data files are too large to store in your own repostitory.  This will tell git not to include them in your repository
+# data/*
