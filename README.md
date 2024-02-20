@@ -27,9 +27,9 @@ To streamline the Excel analysis of the Iris dataset, several preparatory steps 
 4. I encoded Iris species into three new columns for correlation analysis, using 1 for the target class and 0 for others, making later statistical calculations straightforward.
 
 Links to my datafiles:
-1. 
-2.
-3.
+1. [bezdekIris.data](data/bezdekIris.data)
+2. [clean_data.csv](data/clean_data.csv)
+3. [clean_data.xlsx](data/clean_data.xlsx)
 
 ## Data Analysis
 Using Excel functions `MAX`, `MIN`, `AVERAGE`, and `STDEV.S`, I calculated the key statistical metrics for the Iris dataset's attributes and presented them in a chart titled "STATISTICS FOR IRIS ATTRIBUTES". The chart allows us to draw several insights:
