@@ -58,7 +58,7 @@ From this chart, one can deduce the following insights:
 3. Sepal Width (s_width): There's a negative correlation with Iris-virginica and a positive correlation with Iris-setosa. This indicates that Iris-setosa tends to have wider sepals compared to Iris-virginica.
 4. Sepal Length (s_length): The correlation is less pronounced for sepal length, but it does show a slight positive correlation with Iris-virginica and a slight negative one with Iris-setosa, though these are not as strong as the correlations with petal measurements.
 
-See Chart 3 **CORRELATION OF ATTRIBUTES AND IRIS CLASS** ![CORRELATION OF ATTRIBUTES AND IRIS CLASS](data/Chart 3.png)
+See Chart 3 **CORRELATION OF ATTRIBUTES AND IRIS CLASS** ![CORRELATION OF ATTRIBUTES AND IRIS CLASS](./images/Chart3.png)
 
 ## Conclusion
 From the above three analysis, one can conclude that petal measurements (length and width) are highly correlated with Iris species classification, more so than sepal measurements. This implies that petal size is a significant indicator of the Iris species and can be heavily weighted in classification models.
