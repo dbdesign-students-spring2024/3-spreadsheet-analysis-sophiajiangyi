@@ -37,7 +37,7 @@ Using Excel functions `MAX`, `MIN`, `AVERAGE`, and `STDEV.S`, I calculated the k
 The range (Max - Min) for sepal length and petal length is notably broad, indicating that these attributes vary significantly across the Iris samples. This is in contrast to the sepal width and petal width, which exhibit a narrower range of values.
 Petal length shows the highest standard deviation, suggesting that its measurements are the most dispersed around the mean, indicating high variability. On the other hand, sepal width has the lowest standard deviation, meaning its values are more consistently close to the mean, denoting low variability.
 
-See Chart 1 **STATISTICS FOR IRIS ATTRIBUTES** ![STATISTICS FOR IRIS ATTRIBUTES](data/chart1.jpg)
+See Chart 1 **STATISTICS FOR IRIS ATTRIBUTES** ![STATISTICS FOR IRIS ATTRIBUTES](./images/Chart1.png)
 
 To explore the relationship between the attributes of Iris flowers and their classifications, I produced a chart entitled "MEAN ATTRIBUTES OF IRIS TYPE." This grouped bar chart visually compares the average measurements of sepal length, sepal width, petal length, and petal width across three Iris species. Observations from the chart include:
 
@@ -47,7 +47,7 @@ To explore the relationship between the attributes of Iris flowers and their cla
 4. The noticeable variances in petal length and width among the species indicate these features are vital for species identification.
 5. Each Iris species exhibits unique size characteristics across all attributes, underscoring their morphological distinctiveness, beneficial for classification.
 
-See Chart 2 **MEAN ATTRIBUTES OF IRIS TYPE** ![MEAN ATTRIBUTES OF IRIS TYPE](data/chart2.jpg)
+See Chart 2 **MEAN ATTRIBUTES OF IRIS TYPE** ![MEAN ATTRIBUTES OF IRIS TYPE](./images/Chart2.png)
 
 Finally, I use the `CORREL` function to calculate the correlation of various attributes with three classes of Iris flowers. Each bar represents the strength and direction of the correlation between the flower's physical attributes and its classification as one of the three species.
 
